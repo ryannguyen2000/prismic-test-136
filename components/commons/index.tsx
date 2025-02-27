@@ -16,4 +16,5 @@ export const components = {
   test_custom: dynamic(() => import("./testCustom")),
   test_custom1: dynamic(() => import("./testCustom1")),
   discription_bold: dynamic(() => import("./discriptionBold")),
+  discription_thin: dynamic(() => import("./discriptionThin")),
 };
