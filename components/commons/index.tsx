@@ -19,4 +19,5 @@ export const components = {
   discription_thin: dynamic(() => import("./discriptionThin")),
   discription_semibold: dynamic(() => import("./discriptionSemibold")),
   discriptioncc: dynamic(() => import("./discriptioncc")),
+  discriptioncl: dynamic(() => import("./discriptioncl")),
 };
